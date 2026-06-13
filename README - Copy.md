@@ -62,7 +62,7 @@ reports, each saveable to a text file in the `reports/` folder.
 | **Dashboard** | ![Dashboard]<img width="717" height="464" alt="image" src="https://github.com/user-attachments/assets/069dc316-9222-4113-9df8-a38d9be4e45c" />
  |
 | **Donations + search** | ![Donations]<img width="422" height="274" alt="image" src="https://github.com/user-attachments/assets/6bf4877f-0dc6-4159-8557-1f5ad7f0a98a" />
-g) |
+ |
 | **Campaigns** | ![Campaigns]<img width="717" height="461" alt="image" src="https://github.com/user-attachments/assets/030cfe9c-bd70-4cb1-9333-0b0d9790fb09" />
  |
 | **Volunteers** | ![Volunteers]<img width="719" height="466" alt="image" src="https://github.com/user-attachments/assets/622ecb1b-0157-428d-9b08-2e8e26b2f38a" />
